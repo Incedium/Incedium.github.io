@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "piano",
+    "pack_format":75,
+    "min_format":40,
+    "max_format":75,
+    "supported_formats":
+    [
+      40,75
+    ]
+  }
+}
